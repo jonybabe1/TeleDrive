@@ -20,8 +20,6 @@ Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 
 
 
-If you're experiencing issues check this https://github.com/mgilangjanuar/teledrive/issues/373
-
 # Deploy to Railway
 [![Deploy](https://railway.app/button.svg)](https://railway.app/new/template/m4m_XE)
 
